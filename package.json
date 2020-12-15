@@ -1,0 +1,24 @@
+{
+  "name": "MisionTic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "express-myconnection": "^1.0.4",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "scrollreveal": "^4.0.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}

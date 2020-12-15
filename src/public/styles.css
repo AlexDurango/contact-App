@@ -1,0 +1,43 @@
+
+body{
+    /* background-color: gray; */
+    background-image: url('/background.jpg');
+    background-repeat: repeat-y;
+    background-size: cover;
+}
+
+header{
+    margin-top: 125px;
+}
+
+#tecnologias{
+    background: #f1f1f1;
+    padding: 50px 0 30px 0;
+    text-align: center;
+    margin-top: 150px;
+}
+
+.contactContainer{
+    margin-top: 100px;
+}
+
+.aboutMe{
+    margin-top: 75px;
+}
+
+.circular--square{
+    width: 100%;
+    border-radius: 75%;
+}
+
+
+.stringsContacts{
+    font-weight: bold;
+    font-style: normal;
+    color: #d6960b;
+    font-size: larger;
+}
+
+.misionTic{
+    border-radius: 10%;
+}
